@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my NYC Open Data Learning Lab!
+![Image](https://images.app.goo.gl/T6SCmfi2FF6AHeus5)
 
-You can use the [editor on GitHub](https://github.com/amelia-ingram/hello-world/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### In order to learn GitHub, I wanted to first experiment with some of the tools available via **NYC Open Data**, using datasets that are publicly available on their website. 
+Let's see how this works...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+First, a visualization I created using their built-in web interface...it pulls emergency room visit data from the past two years...
 
-### Markdown
+<script type="text/javascript" charset="UTF-8" data-locale="en" data-socrata-domain="data.cityofnewyork.us" src="https://data.cityofnewyork.us/component/visualization/v1/socrata-visualizations-loader.js"></script>
+<a class="socrata-visualization-embed" data-embed-version="1" data-height="300" data-socrata-domain="data.cityofnewyork.us" data-vizcan-uid="2c4t-s5e9" data-vif="{&quot;configuration&quot;:{&quot;viewSourceDataLink&quot;:true,&quot;showDimensionLabels&quot;:true,&quot;dimensionLabelRotationAngle&quot;:30,&quot;xAxisScalingMode&quot;:&quot;pan&quot;,&quot;axisLabels&quot;:{&quot;left&quot;:&quot;# Visits&quot;,&quot;bottom&quot;:&quot;Month&quot;},&quot;showValueLabels&quot;:false,&quot;useSecondaryAxisForLines&quot;:true},&quot;series&quot;:[{&quot;color&quot;:{&quot;secondary&quot;:&quot;#a6cee3&quot;,&quot;highlight&quot;:&quot;#cccccc&quot;,&quot;palette&quot;:&quot;categorical2&quot;,&quot;primary&quot;:&quot;#a6cee3&quot;},&quot;showLegend&quot;:true,&quot;type&quot;:&quot;comboChart.column&quot;,&quot;dataSource&quot;:{&quot;measure&quot;:{&quot;aggregationFunction&quot;:&quot;sum&quot;,&quot;columnName&quot;:&quot;total_ed_visits&quot;},&quot;orderBy&quot;:{&quot;parameter&quot;:&quot;dimension&quot;,&quot;sort&quot;:&quot;asc&quot;},&quot;type&quot;:&quot;socrata.soql&quot;,&quot;datasetUid&quot;:&quot;2nwg-uqyg&quot;,&quot;dimension&quot;:{&quot;columnName&quot;:&quot;date&quot;,&quot;aggregationFunction&quot;:null},&quot;filters&quot;:[]},&quot;label&quot;:null},{&quot;color&quot;:{&quot;secondary&quot;:&quot;#5b9ec9&quot;,&quot;highlight&quot;:&quot;#cccccc&quot;,&quot;palette&quot;:&quot;categorical2&quot;,&quot;primary&quot;:&quot;#5b9ec9&quot;},&quot;type&quot;:&quot;comboChart.column&quot;,&quot;dataSource&quot;:{&quot;measure&quot;:{&quot;aggregationFunction&quot;:&quot;count&quot;},&quot;orderBy&quot;:{&quot;parameter&quot;:&quot;dimension&quot;,&quot;sort&quot;:&quot;asc&quot;},&quot;type&quot;:&quot;socrata.soql&quot;,&quot;datasetUid&quot;:&quot;2nwg-uqyg&quot;,&quot;dimension&quot;:{&quot;columnName&quot;:&quot;date&quot;,&quot;aggregationFunction&quot;:null},&quot;filters&quot;:[]},&quot;label&quot;:null},{&quot;color&quot;:{&quot;secondary&quot;:&quot;#f16666&quot;,&quot;highlight&quot;:&quot;#cccccc&quot;,&quot;palette&quot;:&quot;categorical2&quot;,&quot;primary&quot;:&quot;#f16666&quot;},&quot;showLegend&quot;:true,&quot;type&quot;:&quot;comboChart.line&quot;,&quot;dataSource&quot;:{&quot;measure&quot;:{&quot;aggregationFunction&quot;:&quot;sum&quot;,&quot;columnName&quot;:&quot;ili_pne_admissions&quot;},&quot;orderBy&quot;:{&quot;parameter&quot;:&quot;dimension&quot;,&quot;sort&quot;:&quot;asc&quot;},&quot;type&quot;:&quot;socrata.soql&quot;,&quot;datasetUid&quot;:&quot;2nwg-uqyg&quot;,&quot;dimension&quot;:{&quot;columnName&quot;:&quot;date&quot;,&quot;aggregationFunction&quot;:null},&quot;filters&quot;:[]},&quot;label&quot;:null}],&quot;format&quot;:{&quot;type&quot;:&quot;visualization_interchange_format&quot;,&quot;version&quot;:4},&quot;description&quot;:&quot;(Source:  NYC Open Data)&quot;,&quot;id&quot;:&quot;4b6e5f4a-414b-420a-aa38-31adb628845f&quot;,&quot;title&quot;:&quot;Emergency Room Visits vs Admissions in NYC, March 2020 - Present&quot;}" data-width="400" href="https://data.cityofnewyork.us/Health/Emergency-Department-Visits-and-Admissions-for-Inf/2nwg-uqyg?referrer=embed" rel="external" target="_blank">View the data</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amelia-ingram/hello-world/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
