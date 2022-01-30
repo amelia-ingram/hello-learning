@@ -10,4 +10,8 @@ First, a visualization I created using their built-in web interface...it pulls e
 
 The red line plotted on the graph is the total number of admissions for "influenza-like illness and/or Pneumonia".  It is interesting to see the rapid differentiation that was made early into the pandemic as doctors learned to identify COViD-19 symptoms as distinct from flu or pneumonia.  The influenza line increases at the approximate point of each new COViD variation.  You can find the dataset here:  [NY Open Data](https://data.cityofnewyork.us/Health/Emergency-Department-Visits-and-Admissions-for-Inf/2nwg-uqyg). (Visualized 1-26-22)
 
-Of course, this isn't enough!  I'm going to work on some more interesting visuals soon while I'm learning how to use GitHub...more to come!
+Of course, this was just a beginning...my next project:
+
+![A project in heatmapping NYC arrest data using Python](https://github.com/amelia-ingram/hello-world/blob/gh-pages/Leaflet_map-NYC.ipynb)
+
+I'm going to continue working on some more interesting data visuals soon while I'm learning how to use GitHub...more to come...
