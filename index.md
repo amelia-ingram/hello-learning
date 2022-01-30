@@ -14,4 +14,7 @@ Of course, this was just a beginning...my next project:
 
 ![A project in heatmapping NYC arrest data using Python](https://github.com/amelia-ingram/hello-world/blob/gh-pages/Leaflet_map-NYC-web.ipynb)
 
+And the output heatmap is produced here:
+![Heatmap of NYC arrest data](https://github.com/amelia-ingram/hello-world/blob/gh-pages/heatmap.html)
+
 I'm going to continue working on some more interesting data visuals soon while I'm learning how to use GitHub...more to come...
