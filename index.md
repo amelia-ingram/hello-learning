@@ -17,4 +17,8 @@ Of course, this was just a beginning...my next project:
 And the output heatmap is produced here:
 [Heatmap of NYC arrest data](https://github.com/amelia-ingram/hello-world/blob/gh-pages/heatmap.html)
 
+Since it doesn't want to work right now, I'm posting another version here, based on the NYC Open Data visualization maker...it is definitely not as good as the one I produced in this project...
+
+<iframe allow="geolocation" src="https://data.cityofnewyork.us/dataset/NYC-Arrests-to-Date-by-Race/42g8-727h/embed?width=800&height=600" width="800" height="600" style="border:0; padding: 0; margin: 0;"></iframe>
+
 I'm going to continue working on some more interesting data visuals soon while I'm learning how to use GitHub...more to come...
