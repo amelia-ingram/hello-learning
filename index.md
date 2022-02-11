@@ -15,7 +15,7 @@ Of course, this was just a beginning...my next project:
 [A project in heatmapping NYC arrest data using Python](https://nbviewer.org/github/amelia-ingram/hello-learning/blob/c3b57e7afd46b82b848b482445b2ea523e187a5f/Leaflet_map-NYC-web.ipynb)
 
 
-Since it doesn't want to reproduce on Github right now, I'm posting the NYC Open data visualization generator version here...which doesn't give the accuracy in controls as the one I produced in this project...
+I'm also posting my attempt at using the NYC Open Data visualization app here...which doesn't give the accuracy in controls as the one I produced in this project...
 
 [Map of NYC arrests in 2021 by Race](https://data.cityofnewyork.us/d/42g8-727h)
 
