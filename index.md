@@ -12,10 +12,8 @@ The red line plotted on the graph is the total number of admissions for "influen
 
 Of course, this was just a beginning...my next project:
 
-[A project in heatmapping NYC arrest data using Python](https://github.com/amelia-ingram/hello-world/blob/gh-pages/Leaflet_map-NYC-web.ipynb)
+[A project in heatmapping NYC arrest data using Python](https://nbviewer.org/github/amelia-ingram/hello-learning/blob/c3b57e7afd46b82b848b482445b2ea523e187a5f/Leaflet_map-NYC-web.ipynb)
 
-And the output heatmap is produced here:
-[Heatmap of NYC arrest data](https://github.com/amelia-ingram/hello-world/blob/gh-pages/heatmap.html)
 
 Since it doesn't want to reproduce on Github right now, I'm posting the NYC Open data visualization generator version here...which doesn't give the accuracy in controls as the one I produced in this project...
 
