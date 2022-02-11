@@ -12,7 +12,7 @@ The red line plotted on the graph is the total number of admissions for "influen
 
 Of course, this was just a beginning...my next project:
 
-[A project in heatmapping NYC arrest data using Python](https://nbviewer.org/github/amelia-ingram/hello-learning/blob/c3b57e7afd46b82b848b482445b2ea523e187a5f/Leaflet_map-NYC-web.ipynb)
+### [A project in heatmapping NYC arrest data using Python](https://nbviewer.org/github/amelia-ingram/hello-learning/blob/c3b57e7afd46b82b848b482445b2ea523e187a5f/Leaflet_map-NYC-web.ipynb)
 
 
 I'm also posting my attempt at using the NYC Open Data visualization app here...which doesn't give the accuracy in controls as the one I produced in this project...
